@@ -1,0 +1,281 @@
+
+*{
+    text-align: center;
+}
+
+
+body{
+    background-color: #ffffff;
+}
+
+
+    .bgNav{
+        background-color: #432757;
+    }
+    .imgLogo{
+        width: 90px;
+    }
+
+    .imgCarro{
+        color: #ffffff;
+    }
+
+.imgCarrito{
+    width: 50px;
+}
+
+#carrito{
+opacity: 90%;
+font-family: Helvetica;
+font-style: normal;
+font-weight: bold;
+font-size: 12px;
+
+letter-spacing: 0.1em;
+color: #000000;
+}
+.titleCarrito{
+    padding-top: 10px;
+ padding-bottom: 20px;
+}
+.dropdown-menu{overflow:scroll;}
+
+.btnDelete{
+
+    color: #ffffff;
+background: #9149c2;
+
+border-radius: 15px;
+width: 35px;
+height: 30px;
+}
+#btnDelete:hover {
+    background-color:#ff0000;
+    color: #ffffff;
+}
+
+#btnFinalizarCompra{
+
+    color: #ffffff;
+background: #9149c2;
+
+border-radius: 15px;
+width: 120px;
+height: 40px;
+}
+#btnFinalizarCompra:hover {
+    background-color:#ffffff;
+    color: #070707;
+}
+
+
+
+
+
+#hero{
+    background-color: #000000;
+    margin-bottom: 80px;
+}
+
+.imgFondo{
+    
+    background-image: url(/IMGS/Desktop\ -\ 3.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 650px;
+    
+}
+.titleHero{
+    padding-top: 250px;
+    width: 800px;
+    z-index: 1;
+}
+.btnHero{
+    /* Rectangle 2 */
+margin-top: 140px;
+margin-bottom: 30px;
+color: #ffffff;
+width: 216px;
+height: 42px;
+left: 512px;
+top: 871px;
+background: #432757;
+backdrop-filter: blur(129px);
+/* Note: backdrop-filter has minimal browser support */
+border-radius: 134px;
+color: #ffffff;
+}
+
+
+
+#titleCatalogo{
+    color: #432757;
+    font-weight: bold;
+    font-size: 75px;
+    padding-bottom: 35px;
+}
+#titleCatalogo:hover {
+    background-color:#432757;
+    color: #ffffff;
+}
+
+.contenedorFiltros{
+  
+    padding: 20px;
+}
+
+#queryList{
+    margin: 15px;
+    width: 100px;
+    height: 50px;
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 48px;
+    display:inline-block;
+    cursor:pointer;
+    color:#000000;
+    font-family:Arial;
+    font-size:17px;
+    padding: 10px 21px;
+    text-decoration:none;
+}
+#queryList:hover {
+    background-color:#432757;
+    color: #ffffff;
+}
+#queryList:active {
+    position:relative;
+    top:1px;
+}
+
+
+ #catalogo{
+   
+     padding: 15px;
+     background-color: #ffffff;
+ }
+ .card{
+     color: #000000;
+ }
+ .columna{
+    background: #412756;
+    border: 2px solid rgba(118, 118, 118, 0.39);
+    box-sizing: border-box;
+    border-radius: 10px;
+    color: #ffffff;
+}
+   
+    .myButton {
+	
+        width: 80px;
+        height: 40px;
+        background: #000000;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 38px;
+        display:inline-block;
+        cursor:pointer;
+        color:#ffffff;
+        font-family:Arial;
+        font-size:17px;
+        padding: 1px 21px;
+        text-decoration:none;
+    }
+    .myButton:hover {
+        background-color:#9c3cdb;
+        color: #ffffff;
+    }
+    .myButton:active {
+        position:relative;
+        top:1px;
+    }
+    .fas{
+        color: #9E00FF;
+        background-color: #9E00FF;
+    }
+    .mybuttonDos{
+        margin: 5px;
+        width: 80px;
+        height: 25px;
+        background: #ffffff;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 38px;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Arial;
+        font-size:15px;
+        
+        text-decoration:none;
+    }
+    .mybuttonDos:hover {
+        background-color:#432757;
+        color: #ffffff;
+    }
+    .mybuttonDos:active {
+        position:relative;
+        top:1px;
+    }
+
+
+
+
+
+
+
+
+
+
+    #contactoSection{
+        background-image: url('/IMGS/Desktop\ -\ 3.jpg');
+        background-size: cover;
+        margin: 0px;
+        padding: 90px;
+        background-color:#432757;
+        color: #ffffff;
+    }
+    .containerForm{
+                margin: 12px;
+    }
+    .titleContact{
+        font-size: 25px;
+       padding-bottom: 34px;
+    }
+
+    #btnForm{
+        margin: 5px;
+        width: 130px;
+        height: 60px;
+        background: #ffffff;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 38px;
+        display:inline-block;
+        cursor:pointer;
+        color:#000000;
+        font-family:Arial;
+        font-size: 17px;
+        padding: 10px 21px;
+        text-decoration:none;
+        text-align: center;
+    }
+    #btnForm:hover {
+        background-color:#432757;
+        color: #ffffff;
+    }
+    #btnForm:active {
+        position:relative;
+        top:1px;
+    }
+
+
+.linksFooter{
+    color: #9149c2;
+    justify-content: center;
+    text-align: center;
+    padding: 15px;
+}
+
+    #pieDePagina{
+        padding-top: 50px;
+    background-color: #ffffff;
+        color: #432757;
+    }   
