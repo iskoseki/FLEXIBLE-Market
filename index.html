@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+    <link rel="stylesheet" href="/CSS/bootstrap.min.css">
+
+    <link rel="stylesheet" href="/CSS/styles.css">
+  
+    <title>FLEXIBLE</title>
+</head>
+<body>
+ 
+  <nav id="navBarra" class="navbar fixed-top navbar-expand-lg bgNav navbar-dark  "> </nav>
+
+    <header  id="hero" class="">
+     
+      <div class="imgFondo container-fluid">
+        <img  class="titleHero mx-auto d-block img-fluid " src="/IMGS/BE FLEXIBLE.png" alt="" srcset="">
+        <button href="#contentC" class="btnHero">GO SHOP NOW</button>
+      </div>
+
+    </header>
+
+    <div id="notificacion"> </div>
+
+    <section id="contentC" class="container-fluid contenedorCatalogo">
+
+    <div class="container contenedorFiltros">
+      <input id="minQuery" type="number" value="1000">
+      <input id="maxQuery" type="number" value="3000">
+      <button  id="queryList">Filtrar</button>
+    </div> 
+
+        <div id="catalogo" class="row justify-content-center align-self-center"></div>
+    
+      </section>
+
+    <section id="contactoSection"> </section>
+
+    <footer id="pieDePagina"></footer>
+               
+                <!--Scripsts-->
+    <script src="/JS/lib/jquery-3.6.0.min.js"></script>
+    <script src="/JS/lib/bootstrap.bundle.min.js"></script>
+    <script src="/JS/data.js"></script>
+    <script src="/JS/componentes.js"></script>
+    <script src="/JS/class.js"></script>
+    <script src="/JS/functions.js"></script>
+</body>
+</html>

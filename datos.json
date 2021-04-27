@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "name": "Chomba Polo",
+    "image": "/IMGS/chombaPolo.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 1500
+  }, {
+    "id": 2,
+    "name": "Camisa Marco",
+    "image": "/IMGS/camisaMarco.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 3000
+  }, {
+    "id": 3,
+    "name": "Chomba Purpure",
+    "image": "/IMGS/chombaPurpure.jpg",
+    "talle": "L",
+    "cantidad": 1,
+    "valor": 2500
+  }, {
+    "id": 4,
+    "name": "Chomba George",
+    "image": "IMGS/chombaGeorge.jpg",
+    "talle": "XXL",
+    "cantidad": 1,
+    "valor": 2000
+  }, {
+    "id": 5,
+    "name": "Chomba New port",
+    "image": "/IMGS/chombaNewPort.jpg",
+    "talle": "M",
+    "cantidad": 1,
+    "valor": 1000
+  },{
+    "id": 6,
+    "name": "Top Sun & moon",
+    "image": "/IMGS/topYellow.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 1500
+  },{
+    "id": 7,
+    "name": "Camisa Chelsy",
+    "image": "/IMGS/Camisa noventas.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 2500
+  },{
+    "id": 8,
+    "name": "Short SJNMA",
+    "image": "/IMGS/Short Basquetball.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 1500
+  },{
+    "id": 9,
+    "name": "Chelsy",
+    "image": "/IMGS/Jardinero Corto.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 2000
+  },{
+    "id": 10,
+    "name": "Chicago Dream",
+    "image": "/IMGS/Campera 11.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 3000
+  },{
+    "id": 11,
+    "name": "Chelsy",
+    "image": "/IMGS/remeraBatik.jpg",
+    "talle": "L",
+    "cantidad": 1,
+    "valor": 1500
+  }, {
+    "id": 12,
+    "name": "Sherwynd",
+    "image": "/IMGS/camisaXin.jpg",
+    "talle": "XL",
+    "cantidad": 1,
+    "valor": 2753
+  }]
