@@ -1,7 +1,9 @@
 # FLEXIBLE-Ecommerce
 
 ~ Este es mi proyecto para la implementar los conocimientos del Curso Java script en CoderHouse.com 
-      ## LINK HOSTED EN FIREBASE: https://flexible-tm.web.app/
+
+
+## LINK HOSTED EN FIREBASE: https://flexible-tm.web.app/
 
 
 
